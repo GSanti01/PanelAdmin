@@ -54,6 +54,15 @@ App.jsx
         ├── /usuarios   → Usuarios.jsx
         └── /logout      → Logout.jsx
 ```
+
+## Pasos de instalación
+1. Clonar el repositorio.
+2. Cambiar la rama a master (git checkout master).
+3. Cambiar la ruta a la carpeta princiapl (cd admin-panel).
+4. Instalar dependencias (npm install).
+5. Inicializar el servidor de desarrollo (npm run dev).
+
+
 ## Imágenes de muestra:
 
 <img width="1805" height="844" alt="image" src="https://github.com/user-attachments/assets/5817f5c0-c516-4a6f-bbc4-a381fdab3e52" />
