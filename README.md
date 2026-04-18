@@ -11,7 +11,8 @@ En caso de no ser así, descargarlo: https://nodejs.org/es/download
 
 IMPORTANTE: Los comandos de instalación de inicialización e instalación se deben correr desde la CMD, o si se prefiere correrlos desde la terminal de VSCode se debe activar la configuración de la terminal a Command Prompt (Ctrl + Shift + P, Terminal: Select Default Profile).
 
-1. Inicialización con `npm create vite@latest` (plantilla React)
+1. Inicialización con `npm create vite@latest` (plantilla React).
+   
    npm create vite@latest admin-panel -- --template react
    
 3. Instalación de `react-router-dom` y `bootstrap`
@@ -26,8 +27,9 @@ IMPORTANTE: Los comandos de instalación de inicialización e instalación se de
     
 11. Estilos con Bootstrap y CSS personalizado.
 
-12. Una vez creados todos los archivos del proyectos ejecutar: npm run dev
-    Este comando sirve para abrir el localhots desde donde se podrá visualizar la página.
+12. Una vez creados todos los archivos del proyectos ejecutar: "npm run dev".
+    
+    Este comando sirve para abrir el localhost desde donde se podrá visualizar la página.
 
 
 ## Vistas disponibles
@@ -39,13 +41,15 @@ IMPORTANTE: Los comandos de instalación de inicialización e instalación se de
 
 
 ## Resumen del flujo de componentes
+
+```text
 App.jsx
- └── BrowserRouter
-      ├── Navbar.jsx (sidebar fijo con NavLinks)
-      ├── Topbar.jsx (encabezado superior)
-      └── Routes
-           ├── / → Dashboard.jsx
-           ├── /clientes → Clientes.jsx
-           ├── /proveedor → Proveedor.jsx
-           ├── /usuarios → Usuarios.jsx
-           └── /logout → Logout.jsx
+└── BrowserRouter
+    ├── Navbar.jsx (Sidebar fijo con NavLinks)
+    ├── Topbar.jsx (Encabezado superior)
+    └── Routes
+        ├── /           → Dashboard.jsx
+        ├── /clientes   → Clientes.jsx
+        ├── /proveedor  → Proveedor.jsx
+        ├── /usuarios   → Usuarios.jsx
+        └── /logout      → Logout.jsx
