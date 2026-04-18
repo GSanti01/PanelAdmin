@@ -53,3 +53,19 @@ App.jsx
         ├── /proveedor  → Proveedor.jsx
         ├── /usuarios   → Usuarios.jsx
         └── /logout      → Logout.jsx
+```
+## Imágenes de muestra:
+
+<img width="1805" height="844" alt="image" src="https://github.com/user-attachments/assets/5817f5c0-c516-4a6f-bbc4-a381fdab3e52" />
+
+<img width="1809" height="850" alt="image" src="https://github.com/user-attachments/assets/6947c3cb-4641-4e5c-b665-0dd42a849760" />
+
+<img width="1806" height="847" alt="image" src="https://github.com/user-attachments/assets/34708b1c-8474-4d92-aade-f1d15d73affa" />
+
+<img width="1805" height="845" alt="image" src="https://github.com/user-attachments/assets/788943ea-03da-4ca3-8db8-59ac552173a5" />
+
+<img width="1822" height="868" alt="image" src="https://github.com/user-attachments/assets/57737548-2d14-4aa7-92b2-6d29f9a6c013" />
+
+
+
+
